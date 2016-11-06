@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<script src="TreeModel.js"></script>
+<body>
+
+<h1> Hello World! </h1>
+
+<script>
+//hint: TreeModel, tree and root are
+//globally available on this page
+tree = new TreeModel();
+
+root = tree.parse({
+ id: 1,
+ children: [
+     {
+         id: 11,
+         children: [{id: 111}]
+     },
+     {
+         id: 12,
+         children: [{id: 121}, {id: 122}]
+     },
+     {
+         id: 13
+     }
+ ]
+});
+
+var nodesGt100 = root.first(function (node) {
+    return node.model.id > 100;
+});
+
+console.log(nodesGt100);
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+console.log("VIPS Highlight All");
+var vips = new VipsAPI();
+globalBlocks = vips.getVisualBlockList();
+for (var i = 0; i < globalBlocks.length; i++) {
+	var box = globalBlocks[i]['-att-box'];
+	box.style.border = "2px solid #FF0000";
+	box.title = globalBlocks[i]['-vips-id'];
+	box.addEventListener('click', function(){
+		this.style.border = "4px solid blue";
+	});
+}
+
+//Position parameters used for drawing the rectangle
+var x = 706;
+var y = 0;
+var width = 12;
+var height = 500;
+
+var canvas = document.createElement('canvas'); //Create a canvas element
+//Set canvas width/height
+canvas.style.width='100%';
+canvas.style.height='100%';
+//Set canvas drawing area width/height
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+//Position canvas
+canvas.style.position='absolute';
+canvas.style.left=0;
+canvas.style.top=0;
+canvas.style.zIndex=100000;
+canvas.style.pointerEvents='none'; //Make sure you can click 'through' the canvas
+document.body.appendChild(canvas); //Append canvas to body element
+var context = canvas.getContext('2d');
+//Draw rectangle
+context.rect(x, y, width, height);
+context.fillStyle = 'yellow';
+context.fill();

@@ -1,0 +1,962 @@
+name,weight
+Unknown,30
+Abyssinian,9
+Domestic Bobtail,9.5
+Domestic Longhair,15
+Domestic Shorthair,11
+Domestic Mediumhair,16.5
+American Wirehair,13.5
+American Shorthair,11
+Balinese,8
+Bengal,17
+Birman,9
+Bombay,11.5
+British Shorthair,11.5
+Burmese,15
+Chartreux,10
+Colorpoint Shorthair,8
+Cornish Rex,9
+Cymric,10
+Devon Rex,6.5
+Egyptian Mau,8
+European Burmese,8
+Exotic Shorthair,10.5
+Havana Brown,6.5
+Himalayan,11.5
+Japanese Bobtail,8
+Javanese,8
+Korat,9
+Laperm,8
+Maine Coon,15.5
+Manx,10
+Pixiebob Shorthair,11
+Norwegian Forest Cat,16
+Ocicat,10
+Oriental,11.5
+Oriental Shorthair,11.5
+Persian,11.5
+Ragamuffin,15
+Ragdoll,15
+Russian Blue,9.5
+Scottish Fold,11
+Selkirk Rex,10
+Siamese,11.5
+Siberian,15
+Singapura,6.5
+Somali,10
+Snowshoe,9
+Sphynx,11.5
+Tiffany/Chantilly,9
+Tonkinese,9
+Turkish Angora,9
+Angora,9
+Cane Corso,93
+Turkish Van,12
+Affenpinscher,8
+Affenpinscher,8
+Affenpinscher,8
+Afghan Hound,55
+Afghan Hound,60
+Afghan Hound,50
+Airedale Terrier,45
+Airedale Terrier,45
+Airedale Terrier,45
+Akbash,105
+Akbash,120
+Akbash,90
+Akita,97.5
+Akita,107.5
+Akita,87.5
+Alapaha Blue Blood Bulldog,89
+Alapaha Blue Blood Bulldog,100
+Alapaha Blue Blood Bulldog,78
+Alaskan Klee Kai,16.5
+Alaskan Klee Kai,16.5
+Alaskan Klee Kai,16.5
+Alaskan Malamute,80
+Alaskan Malamute,85
+Alaskan Malamute,75
+American Bulldog,87.5
+American Bulldog,95
+American Bulldog,80
+American English Coonhound,52.5
+American English Coonhound,52.5
+American English Coonhound,52.5
+Treeing Tennesse Brindle,44
+American Eskimo,23
+American Eskimo,23
+Munchkin Shorthair,7
+Munchkin Longhair,7
+Pbgv,38
+Dandie Dinmont,22
+American Eskimo,23
+American Foxhound,70
+American Foxhound,72.5
+American Foxhound,67.5
+English Foxhound,70
+American Hairless Terrier,10.5
+American Hairless Terrier,10.5
+American Hairless Terrier,10.5
+Pit Bull,47.5
+American Pit Bull Terrier,63.5
+American Pit Bull Terrier,61
+American Pit Bull Terrier,66
+American Staffordshire Terrier,62
+American Staffordshire Terrier,62
+American Staffordshire Terrier,62
+American Water Spaniel,35
+American Water Spaniel,37.5
+American Water Spaniel,32.5
+Anatol Shepherd,115
+Anatol Shepherd,130
+Anatol Shepherd,100
+Blue Lacy,40
+Appenzell Mountain Dog,60
+Appenzell Mountain Dog,65
+Appenzell Mountain Dog,55
+Argentine Dogo,90
+Argentine Dogo,95
+Argentine Dogo,85
+AussieDoodle,47.5
+AussieDoodle,47.5
+AussieDoodle,47.5
+Australian Cattle Dog,34
+Australian Cattle Dog,34
+Australian Cattle Dog,34
+Australian Kelpie,35
+Australian Kelpie,35
+Australian Kelpie,35
+Australian Shepherd,52.5
+Australian Shepherd,57.5
+Australian Shepherd,47.5
+Australian Terrier,13
+Australian Terrier,13
+Australian Terrier,13
+Azawakh,44
+Azawakh,49.5
+Azawakh,38.5
+Basenji,23
+Basenji,24
+Basenji,22
+Basset Hound,50
+Basset Hound,50
+Basset Hound,50
+Beagle,24
+Beagle,24
+Beagle,24
+Beaglier,17.5
+Beaglier,17.5
+Beaglier,17.5
+Bearded Collie,50
+Bearded Collie,50
+Collie Smooth,51
+Beauceron,75
+Beauceron,80
+Beauceron,70
+Bedlington Terrier,20
+Bedlington Terrier,20
+Bedlington Terrier,20
+Belgian Malinois,62.5
+Belgian Malinois,62.5
+Belgian Malinois,62.5
+Belgian Sheepdog,62.5
+Belgian Sheepdog,62.5
+Belgian Sheepdog,62.5
+Belgian Shepherd Laekenois,60
+Belgian Shepherd Laekenois,60
+Belgian Shepherd Laekenois,60
+Belgian Shepherd Malinois,65
+Belgian Shepherd Malinois,70
+Belgian Shepherd Malinois,60
+Belgian Shepherd Tervuren,67.5
+Belgian Shepherd Tervuren,70
+Belgian Shepherd Tervuren,65
+Belgian Tervuren,62.5
+Belgian Tervuren,62.5
+Belgian Tervuren,62.5
+Bergamasco,70.5
+Bergamasco,77
+Bergamasco,64
+Berger Picard,60
+Berger Picard,65
+Berger Picard,55
+Bernese Mountain Dog,95
+Bernese Mountain Dog,105
+Bernese Mountain Dog,85
+Bichon Frise,9.5
+Bichon Frise,9.5
+Bichon Frise,9.5
+Bichpoo,9
+Bichpoo,9
+Bichpoo,9
+Black Tan Hound,65
+Black Tan Hound,65
+Black Tan Hound,65
+Black Mouth Cur,67.5
+Black Mouth Cur,75
+Black Mouth Cur,60
+Black Russian Terrier,117.5
+Black Russian Terrier,135
+Black Russian Terrier,100
+Bloodhound,95
+Bloodhound,100
+Bloodhound,90
+Bluetick Coonhound,62.5
+Bluetick Coonhound,62.5
+Bluetick Coonhound,62.5
+Bolognese,6.75
+Bolognese,6.75
+Bolognese,6.75
+Border Collie,37.5
+Border Collie,37.5
+Border Collie,37.5
+Border Terrier,13.5
+Border Terrier,14.25
+Border Terrier,12.75
+Borzoi,81.25
+Borzoi,90
+Borzoi,72.5
+Boston Terrier,17.5
+Boston Terrier,17.5
+Boston Terrier,17.5
+Bouvier Des Flandres,79.5
+Bouvier Des Flandres,79.5
+Bouvier Des Flandres,79.5
+Boxer,65
+Boxer,72.5
+Boxer,57.5
+BoxerDoodle,41
+BoxerDoodle,41
+BoxerDoodle,41
+Boykin Spaniel,32.5
+Boykin Spaniel,35
+Boykin Spaniel,30
+Bracco Italiano,71.5
+Bracco Italiano,71.5
+Bracco Italiano,71.5
+Briard,87.5
+Briard,87.5
+Briard,87.5
+Briquet Griffon Vendeen,42.5
+Briquet Griffon Vendeen,42.5
+Briquet Griffon Vendeen,42.5
+Brittany Spaniel,35
+Brittany Spaniel,35
+Brittany Spaniel,35
+Bruss Griffon,9
+Bruss Griffon,9
+Bruss Griffon,9
+Bullmastiff,115
+Bullmastiff,120
+Bullmastiff,110
+Bull Terrier,55
+Bull Terrier,60
+Bull Terrier,50
+Bulldog,45
+Bulldog,50
+Bulldog,40
+Cairn Terrier,13.5
+Cairn Terrier,14
+Cairn Terrier,13
+Cairnoodle,17.5
+Cairnoodle,17.5
+Cairnoodle,17.5
+Canaan Dog,45
+Canaan Dog,50
+Canaan Dog,40
+Cane Corso Mastiff,110
+Cane Corso Mastiff,110
+Cane Corso Mastiff,110
+Cao De Castro Laboreiro,66
+Cao De Castro Laboreiro,77
+Cao De Castro Laboreiro,55
+Carolina Dog,37
+Carolina Dog,37
+Carolina Dog,37
+Catahoula,67.5
+Catahoula,75
+Catahoula,60
+Caucasian Mountain Dog,125
+Caucasian Mountain Dog,125
+Caucasian Mountain Dog,125
+Cavachon,15
+Cavachon,15
+Cavachon,15
+Cavalier King Charles Spaniel,14
+Cavalier King Charles Spaniel,14
+Cavalier King Charles Spaniel,14
+Cavapoo,13
+Cavapoo,13
+Cavapoo,13
+Brittany,35
+Cavalier Spaniel,16.5
+Central Asian Ovtcharka,132
+Central Asian Ovtcharka,148.5
+Central Asian Ovtcharka,115.5
+Cesky Terrier,16.75
+Cesky Terrier,18
+Cesky Terrier,15.5
+Chesa Bay Retriever,67.5
+Chesa Bay Retriever,72.5
+Chesa Bay Retriever,62.5
+Chihuahua Shorthair,6
+Chihuahua Longhair,6
+Chihauha,6
+Chinese Chongqing Dog,43.75
+Chinese Chongqing Dog,49
+Chinese Chongqing Dog,38.5
+Chinese Crested,8.5
+Chinese Crested,8.5
+Chinese Crested,8.5
+Chinese Foo Dog,30.5
+Chinese Foo Dog,30.5
+Chinese Foo Dog,30.5
+Chinese Shar-Pei,52.5
+Chinese Shar-Pei,52.5
+Chinese Shar-Pei,52.5
+Chinook,62.5
+Chinook,70
+Chinook,55
+ChiPoo,7.5
+ChiPoo,7.5
+ChiPoo,7.5
+Chow Chow,57.5
+Chow Chow,57.5
+Chow Chow,57.5
+Cirneco Dell Etna,25
+Cirneco Dell Etna,28
+Cirneco Dell Etna,22
+Clumber Spaniel,70
+Clumber Spaniel,77.5
+Clumber Spaniel,62.5
+Cockapoo,12.5
+Cockapoo,12.5
+Cockapoo,12.5
+Cocker Spaniel,20
+Cocker Spaniel,26
+Cocker Spaniel,14
+Collie Rough,51
+Collie Rough,51
+Collie Rough,51
+Corgi,26.75
+Corgi,27.5
+Corgi,26
+Coton De Tulear,13.5
+Coton De Tulear,13.5
+Coton De Tulear,13.5
+Curly Coated Retriever,85
+Curly Coated Retriever,90
+Curly Coated Retriever,80
+Czechloslovakian Wolf Dog,49
+Czechloslovakian Wolf Dog,54
+Czechloslovakian Wolf Dog,44
+Dachshund Longhair,15
+Dachshund Wirehaired,15
+Dachshund,15
+Dalmation,50
+Dalmation,50
+Dalmation,50
+Dandi Dinmont Terrier,21
+Dandi Dinmont Terrier,21
+Dandi Dinmont Terrier,21
+Doberman Pinscher,77.5
+Doberman Pinscher,77.5
+Doberman Pinscher,77.5
+Dogo Argentino,90
+Dogo Argentino,95
+Dogo Argentino,85
+Dogue De Bordeaux,132.5
+Dogue De Bordeaux,132.5
+Dogue De Bordeaux,132.5
+Doodleman Pinscher,77
+Doodleman Pinscher,77
+Doodleman Pinscher,77
+Dutch Shepherd,61
+Dutch Shepherd,61
+Dutch Shepherd,61
+English Boodle,35
+English Boodle,35
+English Boodle,35
+English Bulldog,52.5
+English Bulldog,52.5
+English Bulldog,52.5
+English Cocker Spaniel,30
+English Cocker Spaniel,31
+English Cocker Spaniel,29
+English Coonhound,52.5
+English Coonhound,52.5
+English Coonhound,52.5
+English Pointer,59.75
+English Pointer,65
+English Pointer,54.5
+English Setter,57.5
+English Setter,62.5
+English Setter,52.5
+English Shepherd,51.25
+English Shepherd,57.5
+English Shepherd,45
+English Springer Spaniel,45
+English Springer Spaniel,50
+English Springer Spaniel,40
+English Toy Spaniel,11
+English Toy Spaniel,11
+English Toy Spaniel,11
+Entlebucher,57.5
+Entlebucher,57.5
+Entlebucher,57.5
+Eskapoo,14
+Eskapoo,14
+Eskapoo,14
+Eskimo Dog,20.5
+Eskimo Dog,20.5
+Eskimo Dog,20.5
+Estrela Mountain Dog,83.75
+Estrela Mountain Dog,92.5
+Estrela Mountain Dog,75
+Field Spaniel,42.5
+Field Spaniel,42.5
+Field Spaniel,42.5
+Fila Brasileiro,151.25
+Fila Brasileiro,160
+Fila Brasileiro,142.5
+Finnish Lapphund,45.5
+Finnish Lapphund,45.5
+Finnish Lapphund,45.5
+Finnish Spitz,25
+Finnish Spitz,25
+Finnish Spitz,25
+Flat Coat Retriever,65
+Flat Coat Retriever,65
+Flat Coat Retriever,65
+Chinese Sharpei,55
+Smooth Fox Terrier,17
+Smooth Fox Terrier,18
+Smooth Fox Terrier,16
+Toy Fox Terrier,5
+Wire Hair Fox Terrier,17
+Wire Hair Fox Terrier,18
+Wire Hair Fox Terrier,16
+French Bulldog,28
+French Bulldog,28
+French Bulldog,28
+German Hovawart,72.5
+German Hovawart,72.5
+German Hovawart,72.5
+German Pinscher,30
+German Pinscher,30
+German Pinscher,30
+German Shepherd,85
+German Shepherd,85
+German Shepherd,85
+German Shorthair Pointer,57.5
+German Shorthair Pointer,62.5
+German Shorthair Pointer,52.5
+German Wirehaired Pointer,60
+German Wirehaired Pointer,60
+German Wirehaired Pointer,60
+Glen of Imaal Terrier,35
+Glen of Imaal Terrier,35
+Glen of Imaal Terrier,35
+Goldador,70
+Goldador,70
+Goldador,70
+Golden Retriever,65
+Golden Retriever,70
+Golden Retriever,60
+Goldendoodle,100
+Goldendoodle,150
+Goldendoodle,50
+Gordon Setter,62.5
+Gordon Setter,67.5
+Gordon Setter,57.5
+Great Dane,110
+Great Dane,110
+Great Dane,110
+Great Pyrenees,92.5
+Great Pyrenees,100
+Great Pyrenees,85
+Greater Swiss Mountain Dog,110
+Greater Swiss Mountain Dog,122.5
+Greater Swiss Mountain Dog,97.5
+Greyhound,65
+Greyhound,67.5
+Greyhound,62.5
+Harrier,50
+Harrier,50
+Harrier,50
+Havanese,10
+Havanese,10
+Havanese,10
+Hovawart,72.5
+Hovawart,72.5
+Hovawart,72.5
+Hunt Terrier,12
+Hunt Terrier,12
+Hunt Terrier,12
+Ibiza Hound,47.5
+Ibiza Hound,50
+Ibiza Hound,45
+Ibizan Hound,47.5
+Ibizan Hound,50
+Ibizan Hound,45
+Iceland Sheepdog,25
+Iceland Sheepdog,27.5
+Iceland Sheepdog,22.5
+Illyrian Sheepdog,82.5
+Illyrian Sheepdog,88
+Illyrian Sheepdog,77
+Irish Setter,65
+Irish Setter,70
+Irish Setter,60
+Irish Terrier,26
+Irish Terrier,27
+Irish Terrier,25
+Irish Water Spaniel,55.75
+Irish Water Spaniel,60
+Irish Water Spaniel,51.5
+Irish Wolfhound,112.5
+Irish Wolfhound,120
+Irish Wolfhound,105
+Italian Greyhound,10.5
+Italian Greyhound,10.5
+Italian Greyhound,10.5
+Italian Spinone,75
+Italian Spinone,80.5
+Italian Spinone,69.5
+Jack Russell Terrier,15
+Jack Russell Terrier,15
+Jack Russell Terrier,15
+Japanese Chin,5.5
+Japanese Chin,5.5
+Japanese Chin,5.5
+Jindo,37.5
+Jindo,42.5
+Jindo,32.5
+Kai Dog,40
+Kai Dog,40
+Kai Dog,40
+Karelian Bear Dog,46.5
+Karelian Bear Dog,46.5
+Karelian Bear Dog,46.5
+Keeshond,40
+Keeshond,45
+Keeshond,35
+Kerry Blue Terrier,34.5
+Kerry Blue Terrier,36.5
+Kerry Blue Terrier,32.5
+Kishu Ken,45
+Kishu Ken,45
+Kishu Ken,45
+Komondor,75
+Komondor,80
+Komondor,70
+Kooikerhondje,22
+Kooikerhondje,22
+Kooikerhondje,22
+Kuvasz,93.75
+Kuvasz,107.5
+Kuvasz,80
+Labradoodle,57.5
+Labradoodle,57.5
+Labradoodle,57.5
+Labrador Retriever,67.5
+Labrador Retriever,72.5
+Labrador Retriever,62.5
+Lagotto Romagnolo,29.75
+Lagotto Romagnolo,31.5
+Lagotto Romagnolo,28
+Lakeland Terrier,15.75
+Lakeland Terrier,14.5
+Lakeland Terrier,17
+Lancashire Heeler,19
+Lancashire Heeler,20
+Lancashire Heeler,18
+Leonberger,132.5
+Leonberger,150
+Leonberger,115
+Lhasa Apso,14
+Lhasa Apso,14
+Lhasa Apso,14
+Lhasapoo,16
+Lhasapoo,16
+Lhasapoo,16
+Lowchen,13
+Lowchen,13
+Lowchen,13
+MalShi,10.5
+MalShi,10.5
+MalShi,10.5
+Maltese,5.5
+Maltese,5.5
+Maltese,5.5
+Maltipom,6
+Maltipom,6
+Maltipom,6
+Maltipoo,10
+Maltipoo,10
+Maltipoo,10
+Manchester Terrier,17
+Manchester Terrier,17
+Manchester Terrier,17
+Manchester Terrier,9.5
+Manchester Terrier,9.5
+Manchester Terrier,9.5
+Maremma Sheepdog,82.5
+Maremma Sheepdog,88
+Maremma Sheepdog,77
+Mastiff,182.5
+Mastiff,182.5
+Mastiff,182.5
+McNab,37.5
+McNab,37.5
+McNab,37.5
+Swiss Hound,22
+Spanish Mastiff,175
+Mexican Hairless,22.5
+Mexican Hairless,22.5
+Mexican Hairless,22.5
+Miniature Australian Shepherd,30
+Miniature Australian Shepherd,30
+Miniature Australian Shepherd,30
+Miniature Bull Terrier,29
+Miniature Bull Terrier,29
+Miniature Bull Terrier,29
+Miniature Pinscher,9
+Miniature Pinscher,9
+Miniature Pinscher,9
+Morkie/Yorktese,6.5
+Morkie/Yorktese,6.5
+Morkie/Yorktese,6.5
+Mountain Cur,50
+Mountain Cur,55
+Mountain Cur,45
+Treeing Cur,50
+Glen Of Imaal,35
+Mudi,23.5
+Mudi,23.5
+Mudi,23.5
+Neapolitan Mastiff,165
+Neapolitan Mastiff,165
+Neapolitan Mastiff,165
+New Guinea Singing Dog,25
+New Guinea Singing Dog,25
+New Guinea Singing Dog,25
+Newfoundland,125
+Newfoundland,140
+Newfoundland,110
+Norfolk Terrier,11.5
+Norfolk Terrier,11.5
+Norfolk Terrier,11.5
+Norwegian Buhund,33
+Norwegian Buhund,35.5
+Norwegian Buhund,30.5
+Norwegian Elkhound,51.5
+Norwegian Elkhound,55
+Norwegian Elkhound,48
+Norwegian Lundehund,14.5
+Norwegian Lundehund,15.5
+Norwegian Lundehund,13.5
+Norwich Terrier,12
+Norwich Terrier,12
+Norwich Terrier,12
+Nova Scotia Duck Tolling Retriever,44
+Nova Scotia Duck Tolling Retriever,44
+Nova Scotia Duck Tolling Retriever,44
+Olde English Bulldogge,67.5
+Olde English Bulldogge,75
+Olde English Bulldogge,60
+Olde English Sheepdog,75
+Olde English Sheepdog,80
+Olde English Sheepdog,70
+Otterhound,97.5
+Otterhound,115
+Otterhound,80
+Papillon,9.5
+Papillon,9.5
+Papillon,9.5
+Papoo,8.5
+Papoo,8.5
+Papoo,8.5
+Parson Russell Terrier,15
+Parson Russell Terrier,15
+Parson Russell Terrier,15
+Patterdale Terrier,12
+Patterdale Terrier,12
+Patterdale Terrier,12
+Peek-A-Pom,6.5
+Peek-A-Pom,6.5
+Peek-A-Pom,6.5
+Pekepoo,13
+Pekepoo,13
+Pekepoo,13
+Pekingese,14
+Pekingese,14
+Pekingese,14
+Peruvian Inca Orchid,32
+Peruvian Inca Orchid,32
+Peruvian Inca Orchid,32
+Petite Basset Griffon Vendeen,30
+Petite Basset Griffon Vendeen,30
+Petite Basset Griffon Vendeen,30
+Pharaoh Hound,50
+Pharaoh Hound,50
+Pharaoh Hound,50
+Plott Hound,51.25
+Plott Hound,55
+Plott Hound,47.5
+Landseer,135
+Bluetick Hound,68
+Feist,30
+Podengo Portugueso,27.5
+Podengo Portugueso,27.5
+Podengo Portugueso,27.5
+Old English Sheepdog,80
+Podengo Pequeno,11
+Pointer,60
+Pointer,65
+Pointer,55
+Polish Lowland Sheepdog,40
+Polish Lowland Sheepdog,45
+Polish Lowland Sheepdog,35
+Polish Owczarek Nizinny,40
+Polish Owczarek Nizinny,45
+Polish Owczarek Nizinny,35
+Polish Tatra Sheepdog,105
+Polish Tatra Sheepdog,105
+Polish Tatra Sheepdog,105
+Pomapoo,9
+Pomapoo,9
+Pomapoo,9
+Pomchi,8.5
+Pomchi,8.5
+Pomchi,8.5
+Pomeranian,5
+Pomeranian,5
+Pomeranian,5
+Standard Poodle,55
+Standard Poodle,55
+Standard Poodle,55
+Toy Poodle,7.5
+Toy Poodle,7.5
+Miniature Poodle,16
+Portuguese Podengo,27.5
+Portuguese Podengo,27.5
+Portuguese Podengo,27.5
+Portuguese Pointer,46.5
+Portuguese Pointer,51.5
+Portuguese Pointer,41.5
+Port Water Dog,46.75
+Port Water Dog,51
+Port Water Dog,42.5
+Presa Canario,92.5
+Presa Canario,100
+Presa Canario,85
+Pug,16
+Pug,16
+Pug,16
+Puggle,22.5
+Puggle,22.5
+Puggle,22.5
+Puli,30
+Puli,30
+Puli,30
+Pumi,24.75
+Pumi,27.5
+Pumi,22
+Pyrenean Mastiff,137.5
+Pyrenean Mastiff,137.5
+Pyrenean Mastiff,137.5
+Pyrenean Shepherd,22.5
+Pyrenean Shepherd,22.5
+Pyrenean Shepherd,22.5
+Queensland Heeler,33
+Queensland Heeler,33.5
+Queensland Heeler,32.5
+Rafeiro Do Alentejo,115.75
+Rafeiro Do Alentejo,121
+Rafeiro Do Alentejo,110.5
+Rat Terrier,23.5
+Rat Terrier,23.5
+Rat Terrier,23.5
+Redbone Hound,60
+Redbone Hound,65
+Redbone Hound,55
+Soft Coated Wheaten Terrier,35
+Rhod Ridgeback,77.5
+Rhod Ridgeback,85
+Rhod Ridgeback,70
+Rottweiler,100
+Rottweiler,110
+Rottweiler,90
+Russian Wolfhound,81.25
+Russian Wolfhound,87.5
+Russian Wolfhound,75
+Saint Berdoodle,155
+Saint Berdoodle,175
+Saint Berdoodle,135
+Bull Terrier Miniature,28
+Old English Bulldog,55
+St. Bernard Smooth Coat,160
+St. Bernard Smooth Coat,160
+St. Bernard Smooth Coat,160
+St. Bernard Rough Coat,160
+Picardy Sheepdog,60
+Saluki,50
+Saluki,50
+Saluki,50
+Samoyed,48.75
+Samoyed,55
+Samoyed,42.5
+Schapendoes,33
+Schapendoes,33
+Schapendoes,33
+Schipperke,14
+Schipperke,14
+Schipperke,14
+Schnauzer Giant,77.5
+Miniature Schnauzer,14
+Standard Schnauzer,40
+Standard Schnauzer,42.5
+Standard Schnauzer,37.5
+Schnoodle,15
+Schnoodle,15
+Schnoodle,15
+Scottish Deerhound,91.25
+Scottish Deerhound,97.5
+Scottish Deerhound,85
+Scottish Terrier,20
+Scottish Terrier,20.5
+Scottish Terrier,19.5
+Sealyham Terrier,24.25
+Sealyham Terrier,28.5
+Sealyham Terrier,20
+Shepadoodle,65
+Shepadoodle,65
+Shepadoodle,65
+Shetland Sheepdog,20
+Shetland Sheepdog,20
+Shetland Sheepdog,20
+Shiba Inu,25
+Shiba Inu,25
+Shiba Inu,25
+Shih Tzu,12.5
+Shih Tzu,12.5
+Shih Tzu,12.5
+Shihpoo,12.5
+Shihpoo,12.5
+Shihpoo,12.5
+Shiloh Shepherd,130
+Shiloh Shepherd,150
+Shiloh Shepherd,110
+Alaskan Husky,48
+Siberian Husky,47.5
+Siberian Husky,52.5
+Siberian Husky,42.5
+Silky Terrier,9.5
+Silky Terrier,9.5
+Silky Terrier,9.5
+Skye Terrier,19
+Skye Terrier,19
+Skye Terrier,19
+Sloughi,52.5
+Sloughi,52.5
+Sloughi,52.5
+Soft Coated Wheaton Terrier,37.5
+Soft Coated Wheaton Terrier,40
+Soft Coated Wheaton Terrier,35
+South African Boerboel,177
+South African Boerboel,177
+South African Boerboel,177
+Boerboel,175
+South Russian Ovcharka,109
+South Russian Ovcharka,109
+South Russian Ovcharka,109
+Spinone Italiano,72
+Spinone Italiano,72
+Spinone Italiano,72
+Stabyhoun,50
+Stabyhoun,55
+Stabyhoun,45
+Staffordshire Bull Terrier,30.25
+Staffordshire Bull Terrier,31.5
+Staffordshire Bull Terrier,29
+Staffordshire,30.25
+Staffordshire,31.5
+Staffordshire,29
+Sussex Spaniel,42
+Sussex Spaniel,42
+Sussex Spaniel,42
+Swedish Vallhund,30
+Swedish Vallhund,30
+Swedish Vallhund,30
+Thai Ridgeback,63
+Thai Ridgeback,63
+Thai Ridgeback,63
+Tibetan Mastiff,155
+Tibetan Mastiff,155
+Tibetan Mastiff,155
+Tibetan Spaniel,12
+Tibetan Spaniel,12
+Tibetan Spaniel,12
+Tibetan Terrier,24
+Tibetan Terrier,24
+Tibetan Terrier,24
+Tosa Inu,130
+Tosa Inu,145
+Tosa Inu,115
+Treeing Tennessee Brindle,40
+Treeing Tennessee Brindle,40
+Treeing Tennessee Brindle,40
+Treeing Walker Coonhound,60
+Treeing Walker Coonhound,60
+Treeing Walker Coonhound,60
+Vizsla,55
+Vizsla,55
+Vizsla,55
+Weimaraner,77.5
+Weimaraner,77.5
+Weimaraner,77.5
+Weimardoodle,57.5
+Weimardoodle,57.5
+Weimardoodle,57.5
+"Welsh Corgi, Cardigan",31.75
+Dalmatian,50
+Cardigan Welsh Corgi,34
+Cardigan Welsh Corgi,29.5
+Pembroke Welsh Corgi,26
+Pembroke Welsh Corgi,27
+Pembroke Welsh Corgi,25
+Welsh Springer Spaniel,40
+Welsh Springer Spaniel,40
+Welsh Springer Spaniel,40
+Welsh Terrier,35
+Welsh Terrier,37.5
+Welsh Terrier,32.5
+West Highland,18
+West Highland,18
+West Highland,18
+Westiepoo,25
+Westiepoo,25
+Westiepoo,25
+Whippet,30
+Whippet,30
+Whippet,30
+Whoodles,30
+Whoodles,30
+Whoodles,30
+Wirehaired Pointing Griffon,55
+Wirehaired Pointing Griffon,55
+Wirehaired Pointing Griffon,55
+Wolf Hybrid,100
+Wolf Hybrid,100
+Wolf Hybrid,100
+Xoloitzcuintli,22.5
+Xoloitzcuintli,22.5
+Xoloitzcuintli,22.5
+Yorkshire Terrier,7
+Yorkshire Terrier,7
+Yorkshire Terrier,7
+Yorkshire,7
+Spanish Water Dog,40
+Rex,9
+Cirneco,23

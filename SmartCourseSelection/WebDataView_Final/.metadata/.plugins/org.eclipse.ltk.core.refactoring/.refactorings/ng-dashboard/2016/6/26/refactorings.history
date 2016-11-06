@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 1 elements(s) to &apos;vipsHighlightAll.js&apos;&#x0A;- Original project: &apos;ng-dashboard&apos;&#x0A;- Destination element: &apos;vipsHighlightAll.js&apos;&#x0A;- Original element: &apos;vipsHighlightAll.js&apos;" description="Copy file" element1="app/contentScript/vipsHighlightAll.js" files="1" flags="589830" folders="0" id="org.eclipse.wst.jsdt.ui.copy" log="app/contentScript/vipsHighlightAll.js&#x09;true&#x09;true&#x09;vipsHighlightSiblingBlocks.js" policy="org.eclipse.wst.jsdt.ui.copyResources" stamp="1466863674228" target="/ng-dashboard/app/contentScript/vipsHighlightAll.js" units="0" version="1.0"/>
+</session>

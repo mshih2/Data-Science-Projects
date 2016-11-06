@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+<title>Web Data View</title>
+<link rel="stylesheet" type="text/css"
+	href="lib/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+<!-- also include the library here -->
+<script type="text/javascript" src="jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="lib/angular/angular.js"></script>
+<script type="text/javascript" src="lib/bootstrap/js/bootstrap.min.js"></script>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    height: 100%;
+    width: 100%;
+    margin:0px;
+    padding:0px;
+}
+
+td, th {
+    border: 0px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+</style>
+</head>
+
+<body ng-init="init()">
+	<div style="font-size:300%;"> Web Data View </div>
+	
+	<div id="main_menu">
+    <label for="CAT_Custom_255276">Mode: <span class="req">*</span></label>
+    <select class="cat_dropdown" id="drop_down_selection" name="drop_down_selection">
+        <option value="0">-- Please select --</option>
+        <option value="1">DOM Selection</option>
+        <option value="2">VIPS Selection</option>
+    </select>
+	</div>
+	<div id="dom_selection" style="display: none;">
+		<div ng-controller="domSelectionCtrl">
+			<a ng-click="activateDomSelection()"
+				class='btn btn-small btn-default'>
+				Activate DOM Selector
+			</a>
+			<a ng-click="deactivateDomSelection()"
+				class='btn btn-small btn-default'>
+				Deactivate DOM Selector
+			</a>
+		</div>
+	</div>
+	<div id="vips_selection" style="display: none;"">
+	    <div ng-controller="tagClassChooseCtrl">
+	    <a ng-click="vipsClearAllHighlights()"
+	    	class='btn btn-small btn-default'>
+	    	Remove All Highlights
+	    </a>
+            <hr>
+	    <a ng-click="vipsExportCourseInfo()"
+                class='btn btn-small btn-default'>
+                CourseExtration - Feature Analysis Based
+            </a>
+            <hr>
+            <table valign="top">
+            <tr>
+            <th rowspan="2">
+            <a ng-click="vipsCourseExtraction()"
+                class='btn btn-small btn-default'>
+                CourseExtration - Clustering Based
+            </a>
+            </th>
+            <td></td>
+            <td>
+            <a ng-click="vipsSmartCourseKmean()"
+                class='btn btn-small btn-default'>
+                SmartCourse - Kmean Based
+            </a>
+            </td>
+            </tr>
+            <tr>
+            <td></td>
+            <td>
+            <a ng-click="vipsSmartCourseHierarchical()"
+                class='btn btn-small btn-default'>
+                SmartCourse - Hierarchical Based
+            </a>
+            </td>
+            </tr>
+            <tr>
+            <td></td>
+            <td>
+	    <a ng-click="vipsSuggest()"
+	    	class='btn btn-small btn-default'>
+	    	Give Me Suggestions
+	    </a>
+            </td>
+            <td></td>
+            </tr>
+            <tr>
+            <td></td>
+            <td>
+            <a ng-click="vipsExportText()"
+                class='btn btn-small btn-default'>
+                Export text data
+            </a>
+            </td>
+            <td></td>
+            </tr>
+            </table>
+            </div>
+	</div>
+	
+	<script type="text/javascript" src="app/main.js"></script>
+	<script type="text/javascript" src="app/app.js"></script>
+	<script type="text/javascript" src="app/controller/domSelectionCtrl.js"></script>
+	<script type="text/javascript"
+		src="app/controller/vipsCtrl.js"></script>
+	<script type="text/javascript" src="app/todoStorage.js"></script>
+	<script type="text/javascript" src="app/background.js"></script>
+</body>
+</html>

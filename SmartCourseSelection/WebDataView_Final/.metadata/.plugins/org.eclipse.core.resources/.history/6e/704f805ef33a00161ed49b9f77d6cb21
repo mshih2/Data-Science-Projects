@@ -1,0 +1,28 @@
+var vips = new VipsAPI();
+globalBlocks = vips.getVisualBlockList();
+root = vips.getVisualBlockTree();
+for (var i = 0; i < globalBlocks.length; i++) {
+	var box = globalBlocks[i]['-att-box'];
+	box.style.border = "2px solid #FF0000";
+	box.title = globalBlocks[i]['-vips-id'];
+	var cur = root.first(function (node) {
+	    return node.model.data['-vips-id'] === globalBlocks[i]['-vips-id'];
+	}); 
+	var siblings = root.all(function (node) {
+	    return node.parent === cur.parent;
+	});
+	box.siblings = siblings;
+	box.addEventListener('click', function(e){
+		e.preventDefault();
+		var ss = this.siblings;
+		console.log("You have just clicked on block with id" + this.title);
+		console.log("List of its siblings:")
+		for (var k = 0; k < ss.length; k++) {
+			console.log(ss[k].model.data['-vips-id'])
+			console.log(ss[k].model.data['-att-box']);
+			//you can also highlight them by the following code (just comment it out) 
+			//ss[k].model.data['-att-box'].style.border = "4px solid organge"; 
+		}
+		this.style.border = "4px solid blue";
+	});
+}

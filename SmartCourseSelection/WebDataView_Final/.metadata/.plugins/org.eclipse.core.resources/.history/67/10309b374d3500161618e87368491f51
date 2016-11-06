@@ -1,0 +1,11 @@
+console.log("VIPS Highlight All");
+var vips = new VipsAPI();
+var box = globalBlocks[i]['-att-box'];
+globalBlocks = vips.getVisualBlockList();
+for (var i = 0; i < globalBlocks.length; i++) {
+	box.style.border = "2px solid #FF0000";
+	box.title = globalBlocks[i].getId();
+	box.addEventListener('click', function(){
+		this.style.border = "4px solid blue";
+	});
+}
