@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 10 15:54:16 2016
 
-@author: Mei-Cheng Shih UIUC
+@author: Mei-Cheng Shih
 """
 import time
 ### need to divide delay files into seperate csv files
