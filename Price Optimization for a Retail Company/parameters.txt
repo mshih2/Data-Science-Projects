@@ -1,0 +1,20 @@
+### Data cleaning Parameters
+# Outlier and illogical data
+out_columns=['purchaseamount']
+remove_zero = ['category','productsize','purchasequantity']
+remove_null = ['productmeasure']
+remove_negative = ['purchaseamount','purchasequantity','productsize']
+
+# Data aggregation parameters
+count_ = ['time_unit']
+nunique_ = ['brand']
+sum_ = ['purchaseamount']
+
+# Unit Conversion
+heter_unit_list_1 = [['RL', 'CT'],['YD', 'CT'],['OZ', 'CT'],['LB', 'CT'],['LB', 'OZ', 'CT']]
+heter_unit_list_2 = [['YD', 'FT', 'LB', 'OZ', 'CT'],['1', 'CT']]
+weight_list = [['LB', 'OZ']]
+
+### Model and training parameters
+param_grid = {'max_depth':[5, 7, 9], 'n_estimators':[100, 120, 140]}
+init_params = {'max_depth': 7, 'n_estimators': 120}
