@@ -7,7 +7,7 @@ Created on Mon Jun 25 11:46:41 2018
 
 import pandas as pd
 import data_preprocessing as dp
-import model_pipeline as mod_pipe
+import model_func as mod_func
 
 ### Initialize data cleaning classes
 sc = dp.sanity_check()
@@ -43,7 +43,7 @@ data = feat_eng.run(data, convert_unit = True, heter_unit_list_1 = heter_unit_li
 data = sc.finalize(data)
 
 ### Initialize train pipeline
-train_pipe = mod_pipe.train_pipleline(data, 'saletotalamount')
+train_pipe = mod_func.train_pipleline(data, 'saletotalamount')
 
 ### Model training
 # Set initial model parameters
