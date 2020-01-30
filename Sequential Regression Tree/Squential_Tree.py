@@ -7,6 +7,7 @@ Created on Tue Jun 26 17:14:58 2018
 """
 
 import sys
+import numpy as np
 
 def printf(format, *args):
     sys.stdout.write(format % args)
@@ -82,7 +83,6 @@ class pattern_tree(object):
         self.mean_var_recur(self.root)
                
     def mean_var_recur(self, cur):
-        import numpy as np
         cur.tm_median=np.median(cur.time)
         cur.tm_mean=np.mean(cur.time)
         cur.tm_std=np.std(cur.time)
@@ -139,7 +139,6 @@ class pattern_tree(object):
         return cur
         
     def predict(self, rawdata, ind='median',rep=True):
-        import numpy as np
         prediction=list()
         
         def get_mean(pattern): 
